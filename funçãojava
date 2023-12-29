@@ -1,9 +1,9 @@
 class HelloWorld {
     public static void main(String[] args) {
         
-        soma();
+        teste();
     }
-    static void soma(){
+    static void teste(){
     System.out.println("Esta funcao sem parametro e sem retorno");
 }
 }

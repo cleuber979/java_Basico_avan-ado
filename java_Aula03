@@ -1,0 +1,9 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        System.out.println(teste3());
+    }
+    static String teste3(){
+     return  "retornando valor na funcao sem parametro";
+}
+}

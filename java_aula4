@@ -1,0 +1,11 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        System.out.println("Retornando a soma de 2 numeros  "  +  
+           teste4(2,2)  );
+    }
+    static int teste4(int a, int b ){
+        int soma = a + b;
+     return  soma;
+}
+}

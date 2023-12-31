@@ -1,0 +1,15 @@
+
+class TiposDados {
+    public static void main(String [] args){
+       String nome = "Cleuber";
+       int idade = 43;
+       char sexo = 'M';
+       double altura = 1.85;
+       
+       System.out.println("Prazer em conhecer eu sou " + nome);
+       System.out.println("Tenho  " + idade + " anos  de  idade");
+       System.out.println("Sou do sexo "+ sexo);
+       System.out.println("Tenho a altura de "+ altura);
+       System.out.println("Essas sao variaveis dos tipos primitivos ");
+    }
+}

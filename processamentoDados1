@@ -1,0 +1,10 @@
+class ProcessamentoDadosCasting {
+    public static void main(String [] args){
+        int x =5;
+        int y = 2 * x ; // recebe um valor atribuido 
+        
+        System.out.println(x);
+        System.out.println(y);
+        
+    }
+}

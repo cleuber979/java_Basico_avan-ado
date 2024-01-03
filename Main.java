@@ -6,8 +6,8 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		String x;
-		x = sc.next();
-		System.out.println("Olá você digitou:  " + x);
+		x = sc.next(); /* este comando para o programa e aguarda a digitar */
+		System.out.println("OlÃ¡ vocÃª digitou:  " + x);
 		
 		sc.close();
 		

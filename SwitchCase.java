@@ -17,7 +17,7 @@ public class Main {
 				System.out.printf(dia);
 				break;
 			case 3:
-				dia = "Terça-feira";
+				dia = "TerÃ§a-feira";
 				System.out.printf(dia);
 				break;
 			case 4:
@@ -33,7 +33,7 @@ public class Main {
 				System.out.printf(dia);
 				break;
 			case 7:
-				dia = "Sábado";
+				dia = "SÃ¡bado";
 				System.out.printf(dia);
 				break;
 				default:

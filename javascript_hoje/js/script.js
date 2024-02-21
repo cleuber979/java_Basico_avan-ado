@@ -27,10 +27,7 @@ num2
 '15'
 numero2 = parseInt(num2);
 15
-nuero2
-VM714:1 Uncaught ReferenceError: nuero2 is not defined
-    at <anonymous>:1:1
-(anonymous) @ VM714:1
+
 numero2
 15
 soma=(numero1+numero2)
